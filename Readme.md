@@ -1,5 +1,4 @@
 
-````markdown
 # @chinmay20409/nestjs-redis-helper
 
 A lightweight, plug-and-play Redis helper module for NestJS. This package provides an injectable `RedisService` that wraps common Redis operations (`get`, `set`, `delete`, `delByPrefix`) and allows optional automatic deletion of keys by prefix on application bootstrap.
